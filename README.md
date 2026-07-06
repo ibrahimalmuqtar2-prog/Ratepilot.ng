@@ -1,4 +1,4 @@
-README.mdratepilot-logo.pngindex.html
+images/ratepilot-banner.pngREADME.mdratepilot-logo.pngindex.html
 login.html
 register.html
 dashboard.html
