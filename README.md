@@ -12,3 +12,8 @@ the images folderRatePilot/
 ├── login.html
 ├── register.html
 ...
+RatePilot/
+├── index.html
+├── login.html
+├── register.html
+...
