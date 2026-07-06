@@ -7,4 +7,8 @@ settings.html
 rates.html
 the css folder
 the js folder
-the images folder
+the images folderRatePilot/
+├── index.html
+├── login.html
+├── register.html
+...
