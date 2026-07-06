@@ -1,4 +1,4 @@
-index.html
+ratepilot-logo.pngindex.html
 login.html
 register.html
 dashboard.html
