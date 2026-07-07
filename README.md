@@ -1,4 +1,6 @@
-images/ratepilot-banner.pngREADME.mdratepilot-logo.pngindex.html
+images/ratepilot-banner.png
+
+<img src="images/ratepilot-banner.png" alt="RatePilot Banner" width/ratepilot-banner.png" alt="RatePilot Banner" width="100%">images/ratepilot-banner.pngREADME.mdratepilot-logo.pngindex.html
 login.html
 register.html
 dashboard.html
