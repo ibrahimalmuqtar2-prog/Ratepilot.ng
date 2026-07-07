@@ -1,40 +1,40 @@
-images/
-├── ratepilot-banner.pngimages/ratepilot-banner.png
-
-<img src="images/ratepilot-banner.png" alt="RatePilot Banner" width/ratepilot-banner.png" alt="RatePilot Banner" width="100%">images/ratepilot-banner.pngREADME.mdratepilot-logo.pngindex.html
-login.html
-register.html
-dashboard.html
-profile.html
-settings.html
-rates.html
-the css folder
-the js folder
-the images folderRatePilot/
-├── index.html
-├── login.html
-├── register.html
-...<p align="center">
+<p align="center">
   <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
 </p>
 
 # 🚀 RatePilot
 
-A modern and responsive currency converter web application built with HTML, CSS, and JavaScript.
+A modern and responsive currency converter web application built with **HTML**, **CSS**, and **JavaScript**.
 
-🌐 **Live Demo:** *(Add your website link after publishing)*
+## 📸 Screenshots
 
-📸 Screenshots
+### 🏠 Home Page
+![Home](images/home.png)
 
-✨ Features
+### 📊 Dashboard
+![Dashboard](images/dashboard.png)
 
-🛠 Technologies
+### 💱 Currency Converter
+![Converter](images/converter.png)
 
-🚀 Getting Started
+## ✨ Features
 
-👨‍💻 Author
-RatePilot/
-├── index.html
-├── login.html
-├── register.html
+- Live Currency Converter
+- Real-Time Exchange Rates
+- User Login & Registration
+- Dashboard
+- Favorite Currencies
+- Dark Mode
+
+## 🛠 Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Exchange Rate API
+- Chart.js
+
+## 👨‍💻 Author
+
+**Ibrahim**
 ...
