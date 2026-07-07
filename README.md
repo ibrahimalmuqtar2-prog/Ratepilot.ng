@@ -1,7 +1,3 @@
-RatePilot/
-│
-├── README.md
-├── index.html
 
 
 # 🚀 RatePilot
