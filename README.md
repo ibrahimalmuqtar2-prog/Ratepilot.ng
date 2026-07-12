@@ -8,7 +8,7 @@ A modern and responsive currency converter web application built with HTML, CSS,
 
 # 🚀 RatePilot
 
-A modern and responsive currency converter web application built with **HTML**, **CSS**, and **JavaScript**.
+A moden and responsive currency converter web application built with **HTML**, **CSS**, and **JavaScript**.
 
 ## 📸 Screenshots
 
